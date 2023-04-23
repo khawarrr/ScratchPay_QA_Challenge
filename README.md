@@ -1,20 +1,14 @@
-<<<<<<< HEAD
-# Business Day Checker
-Returns the number of business days it will take for a payment to be allocated into an account.
+# ScratchPay QA Challenge
 
-## Run Locally
+### Description
+Using Cypress framework to create Unit tests Flow.
 
-```
-npm install
-npm start
-```
 
-## API
+### Please follow the following steps to run the test 
+1. Clone this repo locally
+2. Open the folder in VS Code
+3. Open the terminal and run the following command: $ npm install cypress
 
-The entire API is accessible under `/api/v1` and the following endpoints are available:
 
-- `GET /api/v1/settlementDate`
-- `GET /api/v1/isBusinessDay`
-=======
-# ScratchPay_QA_Challenge
->>>>>>> d4174e549508f08b1bf0652fa2fd91ddaf4e42ad
+## Technologies Used
+- Cypress Framework
